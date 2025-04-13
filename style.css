@@ -555,10 +555,8 @@ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     grid-template-columns: auto auto auto auto;
     place-items: center;
   
-    padding-left: 10px;
+    padding-left: 40px;
     padding-right: 10px;
-
-
   }
 
   .areas-text{
@@ -579,9 +577,9 @@ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   }
   .icon{
     margin-top: 0px;
-    margin-left: 0px;
-    height: 20px;
-    width: 40px;
+    margin-left: 30px;
+    height: 40px;
+    width: 60px;
   }
 
   .banner-test{
@@ -628,7 +626,8 @@ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 40PX;
     padding-top: 100px;
-    margin-left: 40px;
+    
+    margin-left: 80px;
     margin-bottom: 20px;
   
     display: grid;
@@ -641,7 +640,7 @@ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   .text-orientation-content{
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-weight: bold;
-    font-size: 18px;
+    font-size: 22px;
     margin-left: 40px;
   }
 
@@ -674,7 +673,7 @@ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-weight: bold;
-    font-size: 10px;
+    font-size: 13px;
 
     margin-bottom: 20px;
     margin-right: 3px;
@@ -689,7 +688,7 @@ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 40px;
   
     padding-top: 40px;
-    margin-bottom: 30px;
+    margin-bottom: 10px;
   }
 
   .align-localization-title{
@@ -710,13 +709,13 @@ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   .content-text-description{
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-weight: bold;
-    font-size: 10px;     
+    font-size: 12px;
   }
 
   /*Footer*/
 
   .footer{
-    height: 150px;
+    height: 110px;
   
     font-size: 15px;
   
