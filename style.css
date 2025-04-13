@@ -674,7 +674,7 @@ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-weight: bold;
-    font-size: 12px;
+    font-size: 10px;
 
     margin-bottom: 20px;
     margin-right: 3px;
@@ -710,7 +710,7 @@ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   .content-text-description{
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-weight: bold;
-    font-size: 10px;
+    font-size: 10px;     
   }
 
   /*Footer*/
